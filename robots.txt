@@ -1,0 +1,3 @@
+Sitemap:http://m2z.benedfit.com/sitemap.xml
+User-agent:*
+Disallow:/
